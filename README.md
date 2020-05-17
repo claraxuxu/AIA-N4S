@@ -1,4 +1,4 @@
-# AI_car_V-rep
+# AI_car_V-rep - Epitech School AI project
 
 This is a project of autonomous car, our programme is able to drive the car on a track without touch the walls
 
@@ -16,3 +16,8 @@ For complier the programme:
 
 This is the example:
 ![Alt Text](https://github.com/claraxuxu/AI_car_V-rep/blob/master/gif/N4S1.gif)
+![Alt Text](https://github.com/claraxuxu/AI_car_V-rep/blob/master/gif/N4S2.gif)
+
+Programme Groupe:
+Bogdan G.(![Github](https://github.com/bogdzn))
+Adina C.
