@@ -19,6 +19,6 @@ This is the example:
 ![Alt Text](https://github.com/claraxuxu/AI_car_V-rep/blob/master/gif/N4S2.gif)
 
 Programme Groupe:
-Bogdan G.([Github](https://github.com/bogdzn))
 
+Bogdan G.([Github](https://github.com/bogdzn))
 Adina C.
