@@ -20,5 +20,4 @@ This is the example:
 
 Programme Groupe:
 
-Bogdan G.([Github](https://github.com/bogdzn))
-Adina C.
+Bogdan G.([His_Github](https://github.com/bogdzn)) and Adina C.
