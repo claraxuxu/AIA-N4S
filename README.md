@@ -4,7 +4,7 @@ This is a project of autonomous car, our programme is able to drive the car on a
 
 And the car knows the correct direction of the track
 
-We use CoppeliaSim as a simulator, you could download them in this website:https://coppeliarobotics.com/previousVersions
+We use CoppeliaSim as a simulator, you could download them in this website:[Here_for_downloading](https://coppeliarobotics.com/previousVersions)
 
 The file n4s is the binary file of the API, pipes.sh is the shell script for our programme
 
@@ -19,5 +19,5 @@ This is the example:
 ![Alt Text](https://github.com/claraxuxu/AI_car_V-rep/blob/master/gif/N4S2.gif)
 
 Programme Groupe:
-Bogdan G.(![Github](https://github.com/bogdzn))
+Bogdan G.([Github](https://github.com/bogdzn))
 Adina C.
